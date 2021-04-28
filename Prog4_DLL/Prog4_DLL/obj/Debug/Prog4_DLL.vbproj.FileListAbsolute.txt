@@ -1,0 +1,10 @@
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4_DLL\Prog4_DLL\bin\Debug\Prog4_DLL.dll
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4_DLL\Prog4_DLL\bin\Debug\Prog4_DLL.pdb
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4_DLL\Prog4_DLL\bin\Debug\Prog4_DLL.xml
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4_DLL\Prog4_DLL\obj\Debug\Prog4_DLL.vbprojAssemblyReference.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4_DLL\Prog4_DLL\obj\Debug\Prog4_DLL.Resources.resources
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4_DLL\Prog4_DLL\obj\Debug\Prog4_DLL.vbproj.GenerateResource.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4_DLL\Prog4_DLL\obj\Debug\Prog4_DLL.vbproj.CoreCompileInputs.cache
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4_DLL\Prog4_DLL\obj\Debug\Prog4_DLL.dll
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4_DLL\Prog4_DLL\obj\Debug\Prog4_DLL.xml
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4_DLL\Prog4_DLL\obj\Debug\Prog4_DLL.pdb

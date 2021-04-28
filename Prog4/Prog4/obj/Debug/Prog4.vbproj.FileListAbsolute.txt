@@ -10,3 +10,7 @@ C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\Wi
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4\Prog4\obj\Debug\Prog4.exe
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4\Prog4\obj\Debug\Prog4.xml
 C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4\Prog4\obj\Debug\Prog4.pdb
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4\Prog4\bin\Debug\Prog4_DLL.dll
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4\Prog4\bin\Debug\Prog4_DLL.pdb
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4\Prog4\bin\Debug\Prog4_DLL.xml
+C:\Users\jaele\Desktop\Programming\Programming Stuff\WindowsProgramming\Prog4\WinProg_Prog4\Prog4\Prog4\obj\Debug\Prog4.vbproj.CopyComplete
